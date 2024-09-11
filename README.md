@@ -1,2 +1,1 @@
-# Projects
-Project depicting the Wedding Event Management WebSite
+# PHP-Wedding-Planner
